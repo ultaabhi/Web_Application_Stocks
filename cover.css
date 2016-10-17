@@ -1,0 +1,70 @@
+body {
+  height: 100%;
+  background-color: #357;
+}
+
+.t1{
+    margin-top: 10px;
+}
+
+#t2{
+    margin-top: -30px;
+    text-align: center;
+    
+}
+.btn-sq-xs {
+  width: 25px !important;
+  height: 25px !important;
+  padding:2px;
+}
+.fbbutton{
+    
+}
+.link {
+  background-color: transparent;
+  border: none;
+  color: blue;
+  cursor: pointer;
+}
+
+.link:hover {
+   text-decoration: underline;   
+}
+
+.starcolor{
+  color:yellow;
+}
+
+/*@media only screen and (max-width: 450px) {
+    .autorefresh{
+        display: none;
+    }
+}*/
+
+.dim{
+    background-color: white;
+    color: cadetblue;
+    border:0;
+}
+.dim:hover{
+    background-color: #eee;
+    color: cadetblue;
+    border:0;
+}
+.dim:active{
+    background-color: #336482;
+    color: darkturquoise;
+    border:0;
+}
+.blue{
+    background-color: #336482;
+    color: white;
+    border:0;
+    transition: none;
+
+}
+.blue:hover{
+    background-color: #336482;
+    color: white;
+    border:0;
+}
